@@ -31,7 +31,9 @@ I'm always experimenting and improving my skills!
 
 ## 📊 My GitHub Stats
 
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdelrmb&theme=dark&utcOffset=1)
+![Abdelrmb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrmb&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![Contributions sur le mois](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdelrmb&theme=dark&utcOffset=1&month=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrmb&layout=compact&theme=dark)
 
