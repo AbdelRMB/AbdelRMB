@@ -35,7 +35,7 @@ I'm always experimenting and improving my skills!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrmb&layout=compact&theme=radical&langs_count=8&hide=html,css)
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Abdelrmb&theme=radical)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=abdelrmb&theme=radical)
 
 ![Contribution Graph](https://raw.githubusercontent.com/antonkomarev/github-profile-heatmap/master/generated/Abdelrmb.png)
 
