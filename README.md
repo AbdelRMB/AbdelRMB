@@ -33,7 +33,7 @@ I'm always experimenting and improving my skills!
 
 ![Abdelrmb's GitHub Stats](https://github-readme-stats-abdelrmb.vercel.app/api?username=Abdelrmb&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrmb&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrmb&layout=compact&theme=radical&langs_count=6&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrmb&layout=compact&theme=radical&langs_count=6&hide=html,css)
 
 ## 🔗 Where to Find Me?
 - 🎮 Discord: **abdelrmb93**
