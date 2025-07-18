@@ -38,6 +38,7 @@ I'm always experimenting and improving my skills!
 ![GitHub Profile Trophy](https://camo.githubusercontent.com/22dfc18fd761a9d5a1b6751eb94cc9aa2ec0ca877f858639a49fe231a62dc7ff/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d416264656c726d62267468656d653d7261646963616c)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdelRMB)
+[![wakatime](https://wakatime.com/badge/user/863bf493-51da-439f-bd7a-966878edffd7.svg)](https://wakatime.com/@863bf493-51da-439f-bd7a-966878edffd7)
 
 ## 🔗 Where to Find Me?
 - 🎮 Discord: **abdelrmb93**
